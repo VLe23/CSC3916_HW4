@@ -1,3 +1,8 @@
+/*
+ CSC3916_HW4
+ File: Movies.js
+ Description: Web API : Movie API
+*/
 let envPath = __dirname + "/../.env"
 require('dotenv').config({path:envPath});
 var mongoose = require('mongoose');
