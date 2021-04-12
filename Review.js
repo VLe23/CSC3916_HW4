@@ -1,3 +1,8 @@
+/*
+ CSC3916_HW4
+ File: Review.js
+ Description: Web API : Movie API
+*/
 // connecting mongoose
 var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
