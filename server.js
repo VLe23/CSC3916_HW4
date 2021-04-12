@@ -1,5 +1,5 @@
 /*
- CSC3916
+ CSC3916_HW4
  File: server.js
  Description: Web API : Movie API
 */
